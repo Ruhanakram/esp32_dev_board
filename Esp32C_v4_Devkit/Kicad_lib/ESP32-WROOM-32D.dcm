@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Q_DUAL_NPN_NPN_C2E2C1E1B1B2
+D Dual NPN transistor, 6 pin package
+K transistor NPN
+F ~
+$ENDCMP
+#
+#End Doc Library
