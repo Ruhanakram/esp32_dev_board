@@ -1,4 +1,18 @@
-18707706236662155
+18707707648071648
+Arduino_v3.3
+ICSP_Arduino__connector
+
+
+0
+1
+1
+Arduino_v3.3
+Micro_usb_connector_4_THT_pads
+
+
+0
+9
+9
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -81766,17 +81780,3 @@ esp32_wroom_32e
 0
 47
 38
-simcard_holder
-Micro_simcard_holder
-
-
-0
-8
-6
-simcard_holder
-Nano_simcard_holder
-
-
-0
-4
-0
